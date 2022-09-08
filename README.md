@@ -1,16 +1,15 @@
-### Hi there 👋
+### Udayasri Prasadam
+I Udayasri Prasadam from guntur, Andhra pradesh, India.
 
-<!--
-**UdayasriPrasadam/UdayasriPrasadam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I completed my bachelor's at Qis college of engineering and technology, ongole.
 
-Here are some ideas to get you started:
+I am intrested to learn new things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My hobbie is listning music.
+
+I want  to enhance my skills on webapps.
+
+My goal is to pursue Ph.D.
+
+
+
